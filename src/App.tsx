@@ -11,9 +11,11 @@ import { DefaultButton } from './components/DefaultButton';
 import { PlayCircle } from 'lucide-react';
 import { Footer } from './components/Footer';
 
+
 export function App() {
   return (
     <>
+
       <Container>
         <Logo />
       </Container>
